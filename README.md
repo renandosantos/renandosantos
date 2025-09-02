@@ -16,6 +16,7 @@ Sou um desenvolvedor Back-end em formação, cursando Análise e Desenvolvimento
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-00599C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,7 +27,7 @@ Sou um desenvolvedor Back-end em formação, cursando Análise e Desenvolvimento
 
 Atualmente, estou focado em aprofundar meus conhecimentos em:
 - 🔭 Buscando ativamente minha **primeira oportunidade** como Desenvolvedor Back-end Júnior ou Estagiário.
-- 🌱 Aprofundando meus conhecimentos em **SQL** e modelagem de bancos de dados relacionais.---
+- 🌱 Aprofundando meus conhecimentos em **SQL** e modelagem de bancos de dados relacionais.
 - 🚀 Desenvolvendo meu projeto-chave: uma **API REST com Node.js e MySQL** para meu portfólio.
 - 💬 Melhorar meu nível de conversação em **Inglês**.
 
