@@ -1,13 +1,12 @@
 # Olá, eu sou o Renan Rodrigues dos Santos! 👋
 
-<p align="left"> 
+<p align="left"> Esse é meu linkedin
   <a href="https://www.linkedin.com/in/renanrrodriguess/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-Sou um desenvolvedor Back-end em formação, cursando Análise e Desenvolvimento de Sistemas. Gosto de resolver problemas e construir soluções eficientes com tecnologia. Tenho experiência com liderança em projetos e estou sempre buscando aprender algo novo!
-
+Sou um desenvolvedor Back-end em formação, atualmente trabalhando como Analista de Suporte de TI na 2D Infor, e cursando Análise e Desenvolvimento de Sistemas. Gosto de resolver problemas e construir soluções eficientes com tecnologia. Tenho experiência com liderança em projetos e estou sempre buscando aprender algo novo!
 ---
 
 ### 💻 Tecnologias e Ferramentas
